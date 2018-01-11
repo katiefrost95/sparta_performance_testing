@@ -32,6 +32,6 @@ The thread group is used to put the conditions for your tests, eg number of user
 In HTTP request defaults you put http and source of the website url.
 in HTTP header manager you put the type it is for example: name - content-type, value - Application/Json
 In HTTP Request you input the path of the part of the website you want to test and whether it is a post or get request etc.
-The JSON Extractor is used to get back specific data in the JSON.
+The JSON Extractor is used to get back specific data in the JSON. Make sure to put No_Default in default values so no empy values will be returned.
 The response assertion is used to check a specific item is in the data.
 The results tree is where you see the results of the data.
