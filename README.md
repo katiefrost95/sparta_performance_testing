@@ -43,7 +43,7 @@ __Use of each page__
 
 In the Test Plan you declare your variables.
 
-The thread group is used to put the conditions for your tests, eg number of users: 100, Ramp up Period: 1 second, Forever: 1 - This would be a spike test.
+The thread group is used to put the conditions for your tests, e.g number of users: 100, Ramp up Period: 1 second, Forever: 1 - This would be a spike test.
 
 In HTTP request defaults you put http and source of the website url.
 
